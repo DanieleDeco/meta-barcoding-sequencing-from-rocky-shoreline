@@ -14,9 +14,9 @@ Martin, M. (2011). Cutadapt removes adapter sequences from high-throughput seque
 # Forward and reverse primers
 ############for 16S###########
 PRIMERF="AGAGTTTGATCMTGGCTCAG"
-PRIMERR="ACTAAGAACGGCCATGCACC"
+PRIMERR="RGYTACCTTGTTACGACTT"
 PRIMERFC="CTGAGCCAKGATCAAACTCT"
-PRIMERRC="GGTGCATGGCCGTTCTTAG"
+PRIMERRC="AAGTCGTAACAAGGTARCY"
 ############for 16S###########
 
 ############for 18S###########
